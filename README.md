@@ -1,4 +1,4 @@
-# Herd Slackbot Starter
+# Herd Slackbot Starter 🔥✨🐑
 
 This simple template uses Typescript, `nodemon`, `yarn`, `@slack/bolt`, `ngrok` (or any other ssh tunneling service) and `express` for serving. It's super easy to deploy (unfortunately, it doesn't come with Github Actions or CI because of `.env` parameters, but feel free to make a general-purpose PR!)
 
